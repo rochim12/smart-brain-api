@@ -1,0 +1,32 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.19.0",
+    "catch": "^1.0.48",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "knex": "^0.21.14",
+    "mssql": "^6.3.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5",
+    "node-gyp": "^7.1.2",
+    "oracle": "^0.4.1",
+    "pg": "^8.5.1",
+    "react": "^17.0.1",
+    "rebuild": "^0.1.2",
+    "sqlite3": "^5.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "description": ""
+}
